@@ -450,7 +450,7 @@ with st.sidebar:
     )
     st.markdown("---")
 
-    st.markdown("### 🧠 Model Info")
+    st.markdown("### Model Info")
     st.markdown(
         """
         - **Algorithm:** Support Vector Machine
@@ -461,18 +461,18 @@ with st.sidebar:
     )
     st.markdown("---")
 
-    st.markdown("### 🌍 Supported Languages")
+    st.markdown("### Supported Languages")
     st.markdown('<span class="sidebar-badge">English</span><span class="sidebar-badge">Nigerian Pidgin</span>', unsafe_allow_html=True)
     st.markdown("---")
 
-    st.markdown("### 🎛️ Input Methods")
-    st.markdown('<span class="sidebar-badge">⌨️ Text</span><span class="sidebar-badge">🎤 Voice (upload)</span>', unsafe_allow_html=True)
+    st.markdown("### Input Methods")
+    st.markdown('<span class="sidebar-badge">Text</span><span class="sidebar-badge">Voice (upload)</span>', unsafe_allow_html=True)
     st.markdown("---")
 
     st.markdown(f"**Version:** {APP_VERSION}")
     st.markdown("---")
 
-    st.markdown("### 👤 Author")
+    st.markdown("### Author")
     st.markdown("**Taiwo Olaniyi Toheeb**")
     st.markdown(
         """
@@ -510,14 +510,14 @@ model = get_model()
 # ======================================================================
 # TABS
 # ======================================================================
-tab_text, tab_audio, tab_about = st.tabs(["⌨️  Text Command", "🎤  Voice Command", "ℹ️  About"])
+tab_text, tab_audio, tab_about = st.tabs(["Text Command", "Voice Command", "About"])
 
 # ----------------------------------------------------------------
 # TAB 1: TEXT COMMAND
 # ----------------------------------------------------------------
 with tab_text:
     st.markdown('<div class="app-card">', unsafe_allow_html=True)
-    st.markdown("#### ⌨️ Type a Command")
+    st.markdown("#### Type a Command")
     st.caption("Try Pidgin or English — e.g. \"abeg check my balance\" or \"send money to my brother\".")
 
     example_cols = st.columns(3)
@@ -534,8 +534,8 @@ with tab_text:
     )
 
     col_a, col_b = st.columns([1, 1])
-    classify_clicked = col_a.button("🚀 Classify Command", key="classify_btn")
-    clear_clicked = col_b.button("🔄 Clear Input", key="clear_btn")
+    classify_clicked = col_a.button("Classify Command", key="classify_btn")
+    clear_clicked = col_b.button("Clear Input", key="clear_btn")
 
     if clear_clicked:
         st.session_state["text_input"] = ""
@@ -547,7 +547,7 @@ with tab_text:
         predicted, confidence, ranked = classify_text(model, user_text)
         render_prediction_card(user_text, predicted, confidence, ranked)
     elif classify_clicked and not user_text.strip():
-        st.warning("⚠️ Please type a command first.")
+        st.warning("Please type a command first.")
 
 # ----------------------------------------------------------------
 # TAB 2: VOICE COMMAND
@@ -562,7 +562,7 @@ with tab_audio:
         type=["wav", "flac", "aiff"],
         label_visibility="collapsed",
     )
-    analyze_clicked = st.button("🎤 Analyze Audio", key="analyze_btn")
+    analyze_clicked = st.button("Analyze Audio", key="analyze_btn")
     st.markdown("</div>", unsafe_allow_html=True)
 
     if uploaded is not None:
@@ -592,7 +592,7 @@ with tab_audio:
 # ----------------------------------------------------------------
 with tab_about:
     st.markdown('<div class="app-card">', unsafe_allow_html=True)
-    st.markdown("#### 📋 Project Overview")
+    st.markdown("#### Project Overview")
     st.write(
         "Low-literacy users in Nigeria often find multi-step app menus "
         "difficult to navigate. This project builds the \"brain\" behind a "
@@ -604,7 +604,7 @@ with tab_about:
     col1, col2 = st.columns(2)
     with col1:
         st.markdown('<div class="app-card">', unsafe_allow_html=True)
-        st.markdown("#### ✨ Features")
+        st.markdown("#### Features")
         st.markdown(
             """
             - Classifies Pidgin **and** English commands
@@ -617,7 +617,7 @@ with tab_about:
         st.markdown("</div>", unsafe_allow_html=True)
 
         st.markdown('<div class="app-card">', unsafe_allow_html=True)
-        st.markdown("#### 🎯 Supported Intents (12)")
+        st.markdown("#### Supported Intents (12)")
         intents = [
             "check_balance", "send_money", "buy_airtime", "buy_data",
             "call_contact", "open_app", "check_weather", "set_reminder",
@@ -629,7 +629,7 @@ with tab_about:
 
     with col2:
         st.markdown('<div class="app-card">', unsafe_allow_html=True)
-        st.markdown("#### 🧠 Model Architecture")
+        st.markdown("#### Model Architecture")
         st.markdown(
             """
             1. **Text cleaning** — lowercase, strip punctuation
@@ -643,7 +643,7 @@ with tab_about:
         st.markdown("</div>", unsafe_allow_html=True)
 
         st.markdown('<div class="app-card">', unsafe_allow_html=True)
-        st.markdown("#### 📈 Evaluation Metrics")
+        st.markdown("#### Evaluation Metrics")
         m1, m2 = st.columns(2)
         m1.metric("Template test set", "~99%")
         m2.metric("Unseen phrasing set", "~89%")
@@ -654,7 +654,7 @@ with tab_about:
         st.markdown("</div>", unsafe_allow_html=True)
 
     st.markdown('<div class="app-card">', unsafe_allow_html=True)
-    st.markdown("#### 🚀 Future Improvements")
+    st.markdown("#### Future Improvements")
     st.markdown(
         """
         - Collect real user commands to close the generalization gap further
@@ -690,7 +690,7 @@ st.markdown(
         <span class="tech-pill">SpeechRecognition</span>
         <span class="tech-pill">Joblib</span>
         <span class="tech-pill">TF-IDF</span>
-        <span class="tech-pill">SVC</span>
+        <span class="tech-pill">SVM</span>
     </div>
     """,
     unsafe_allow_html=True,

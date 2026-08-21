@@ -690,7 +690,7 @@ st.markdown(
         <span class="tech-pill">SpeechRecognition</span>
         <span class="tech-pill">Joblib</span>
         <span class="tech-pill">TF-IDF</span>
-        <span class="tech-pill">Logistic Regression</span>
+        <span class="tech-pill">SVC</span>
     </div>
     """,
     unsafe_allow_html=True,

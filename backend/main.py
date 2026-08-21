@@ -74,7 +74,7 @@ app = FastAPI(
 # (e.g. "https://your-app.vercel.app") for tighter security.
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://voicetextcommand.vercel.app/"],  # tighten this to your Vercel domain before going live
+    allow_origins=["https://voicetextcommand.vercel.app"],  # tighten this to your Vercel domain before going live
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

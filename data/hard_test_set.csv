@@ -1,0 +1,37 @@
+command,intent
+abeg make you check how much dey my account,check_balance
+I no sabi my balance na help me check am,check_balance
+wetin remain for my account,check_balance
+send this 2k make e reach my mama sharp sharp,send_money
+I wan make my broda receive 5000 naira,send_money
+transfer am go Chinedu account,send_money
+my phone don finish credit abeg load am,buy_airtime
+I need recharge card make I call people,buy_airtime
+buy small credit make network no cut me off,buy_airtime
+my data don finish abeg reload am,buy_data
+I wan browse but no data dey,buy_data
+load internet bundle make I fit watch video,buy_data
+abeg reach Ngozi for me make she pick,call_contact
+put me through to my oga sharp,call_contact
+I wan hear my sista voice call am,call_contact
+make I see my pictures dem open gallery,open_app
+I wan chat my people for whatsapp open am,open_app
+show me settings make I change something,open_app
+na rain go fall today or e go hot,check_weather
+make I carry umbrella or not,check_weather
+how the sky dey look outside,check_weather
+no let me forget say I go pay light bill,set_reminder
+abeg alarm me when e reach time to pay school fees,set_reminder
+make you ping me before rent due date,set_reminder
+I wan enjoy small afrobeat make you play am,play_music
+put speaker make music dey play,play_music
+gimme Wizkid song make I relax,play_music
+abeg make everything stop I don tire,stop_action
+no let the thing continue again,stop_action
+just pause everything jare,stop_action
+how you dey my broda hope all is well,greeting
+good day to you how the family,greeting
+long time wetin dey happen,greeting
+I no know wetin to press abeg guide me,help_request
+this app don confuse me small help make I understand,help_request
+abeg explain wetin dis one mean,help_request

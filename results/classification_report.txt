@@ -1,0 +1,43 @@
+Best model: svc
+Test accuracy: 1.0000
+Hard test accuracy: 0.8889
+
+               precision    recall  f1-score   support
+
+  buy_airtime       1.00      1.00      1.00        16
+     buy_data       1.00      1.00      1.00        16
+ call_contact       1.00      1.00      1.00        16
+check_balance       1.00      1.00      1.00        16
+check_weather       1.00      1.00      1.00        16
+     greeting       1.00      1.00      1.00        16
+ help_request       1.00      1.00      1.00        16
+     open_app       1.00      1.00      1.00        16
+   play_music       1.00      1.00      1.00        16
+   send_money       1.00      1.00      1.00        16
+ set_reminder       1.00      1.00      1.00        16
+  stop_action       1.00      1.00      1.00        16
+
+     accuracy                           1.00       192
+    macro avg       1.00      1.00      1.00       192
+ weighted avg       1.00      1.00      1.00       192
+
+
+Hard/unseen test set report:
+               precision    recall  f1-score   support
+
+  buy_airtime       1.00      0.67      0.80         3
+     buy_data       1.00      1.00      1.00         3
+ call_contact       0.67      0.67      0.67         3
+check_balance       1.00      1.00      1.00         3
+check_weather       1.00      0.67      0.80         3
+     greeting       1.00      1.00      1.00         3
+ help_request       1.00      0.67      0.80         3
+     open_app       1.00      1.00      1.00         3
+   play_music       1.00      1.00      1.00         3
+   send_money       0.60      1.00      0.75         3
+ set_reminder       1.00      1.00      1.00         3
+  stop_action       0.75      1.00      0.86         3
+
+     accuracy                           0.89        36
+    macro avg       0.92      0.89      0.89        36
+ weighted avg       0.92      0.89      0.89        36

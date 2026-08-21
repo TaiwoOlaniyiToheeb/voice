@@ -1,0 +1,961 @@
+command,intent
+biko how the weather be today,check_weather
+Biko how you dey please,greeting
+I wan hear afrobeat na,play_music
+how much money I get now,check_balance
+Bring up pphone book jare,open_app
+Bring up playstore,open_app
+Biko rechare my lie with N22000 o,buy_airtime
+abeg abeeg buy credit give me na,buy_airtime
+biko I wan buy data bundle,buy_data
+Biko start playing afrobeat,play_music
+launch instagram na,open_app
+abge please remind me to pay generator fuel,set_reminder
+Abeg check weaher for me,check_weather
+Abeg abeg remind me aboout water bill,set_reminder
+biko dial Aunty Bsi's number,call_contact
+Abeg send omney give hCinedu now now,send_money
+Please remind me to pay genrator fuel o,set_reminder
+biko buy N2000 data on Airtel for me please,buy_data
+Oga play some music na abeg,play_music
+Confirm my balance make I see,check_balance
+How does this woork please,help_request
+Abeg buy data for me please,buy_data
+Chek my balance jare,check_balance
+abeg load N00 credit for my phone,buy_airtime
+Aabeg call Tunde,call_contact
+Acncel this one,stop_action
+Abbeg e go rain today? o,check_weather
+Start instagram,open_app
+Abeg e go rain today? jare,check_weather
+Irng my sista please,call_contact
+Oga buy airtime 20k on Airtel,buy_airtime
+oga balance hceck abeg please,check_balance
+beg recharge my data with 3000 naira abeg,buy_data
+Abeeg remind me about rent abeg,set_reminder
+abeg check my account balance jare,check_balance
+play some music na o,play_music
+Please gime fuji music please,play_music
+oga wwetin dey happen jare,greeting
+Start gmail,open_app
+set reminder for electricity bill on Monday please,set_reminder
+I wan send money to Chinedu,send_money
+lease stop am o,stop_action
+please recharge my data with 500 naira,buy_data
+oga I wan hear my playlist abeg,play_music
+"Pelase I no understand, help me baeg",help_request
+Please recharge my data with N500,buy_data
+Biko abeg play my playlist for me na,play_music
+Paly my playlist,play_music
+put on Burna Boy,play_music
+Iko I want to send 2k to Aunty Bisi,send_money
+Abge gimme Burna Boy pleaase,play_music
+Please abeg I need help jare,help_request
+Wtin be the eather like o,check_weather
+Connect me to Aunty Bisi jare,call_contact
+start playing some music abeeg,play_music
+Buy airtime 3000 naira on Glo beg,buy_airtime
+Abeg paly some music na,play_music
+wetin be my balance jare,check_balance
+Please help me abeg o,help_request
+Set a reminder for me next week o,set_reminder
+Set reminder for generator fuel by weekend o,set_reminder
+oga abeg call Tunde for me please,call_contact
+Bring up glalery o,open_app
+Recharge my line with N500,buy_airtime
+Ring my guy,call_contact
+Set remindeer for school fees tmoorrow morning,set_reminder
+please recharge my data with 2k o,buy_data
+I want to send 500 naira to my ssta na,send_money
+abbeg open the browser for me abeg,open_app
+what is the weaather forecast,check_weather
+please hello there please,greeting
+Top up my Glo line with 3000 naira na,buy_airtime
+canel this one jare,stop_action
+pleaes guide me,help_request
+Top up my 9mobile line with 1500 naira na,buy_airtime
+pleease I wan buy recharge card of 3000 naira na,buy_airtime
+Stop am please,stop_action
+Please good afternoon jare,greeting
+abeg ssend money give my oga now now please,send_money
+set a reminder for me this evening,set_reminder
+I wan use gmail na,open_app
+I wan buy recharge card of 5000 naira jare,buy_airtime
+Please call Tunde,call_contact
+abeg tell me the weather,check_weather
+abeg please remind me to pay rent na,set_reminder
+"I dey confuse, assist me",help_request
+abeg send 500 naira give my sista sharp sharp,send_money
+Buy airtime 1000 naira on Airtel jae,buy_airtime
+Biko confirm my balance make I see please,check_balance
+biko abeg buy Airtel data bundle o,buy_data
+Abeg abeg remind me about light bill na,set_reminder
+Biko I wan use phone book abeg,open_app
+bkio check weather for me na,check_weather
+Top up my Airtel line with 10k na,buy_airtime
+Please abeg remind me about school fees abeg,set_reminder
+Abeg stop am o,stop_action
+Cancel that action abeg,stop_action
+Please good evening my friend,greeting
+oga I wan buy recharge card of 5000 naira abeg,buy_airtime
+Biko please remind me to pay DSVT subbscription please,set_reminder
+please how far na,greeting
+Dial Blessing's number na,call_contact
+Biko snd 1500 naira give my broda,send_money
+Oga e go rain today? jare,check_weather
+biko start youtube,open_app
+play gospel song,play_music
+Buy N500 airtime for me abeg,buy_airtime
+biko sop am,stop_action
+Please how you dey,greeting
+how the weather be today plesae,check_weather
+"I no understand, help me please",help_request
+Abeg how much money I get now please,check_balance
+abeg put on some music abeg,play_music
+Oga abeg buy credit give me na,buy_airtime
+Oga ccall Chinedu,call_contact
+Abeg play gospel song for me o,play_music
+I wan buy recharge card of 10k please,buy_airtime
+Abeg buy 50 naira data on MTN for me jare,buy_data
+please will rain fall today,check_weather
+aabeg abeg play gospel song for me,play_music
+Please abeg snd 200 naira give Ngoi sharp sharp jare,send_money
+iko I want to send 20k to Musa,send_money
+Recharge my adta wih 200 naira,buy_data
+oga I wan send money to my broda,send_money
+Oga how the weathher be today,check_weather
+abeg load internet data for my phone abeg,buy_data
+Abeg load internet daata for my phone jare,buy_data
+Buy N500 airtime for me,buy_airtime
+Please top up my Glo line with 10k,buy_airtime
+ring hinedu,call_contact
+Connect me to my oga,call_contact
+Abeg no do am again,stop_action
+buy aritime 20k on MTN,buy_airtime
+Abeg I want to send 2k to Blessing o,send_money
+Wetin dey happen na,greeting
+satrt playing Wizkid na,play_music
+Abeg is it going to rain today na,check_weather
+Biko paause everything,stop_action
+Wetin be my balance abeg,check_balance
+please play some music na abeg,play_music
+Oga launch youtube,open_app
+please I wan send money to Uncle Femi na,send_money
+Please elp me aabeg,help_request
+oga abeg buy credit give me jare,buy_airtime
+I wan set alarm to remember elctricity bill na,set_reminder
+dial Amaka's number jare,call_contact
+help me abeg na,help_request
+please cancel that aaction please,stop_action
+good omrning abeg,greeting
+hlat,stop_action
+abeg how does this work o,help_request
+e go raain todday?,check_weather
+Show me my acount balance aebg,check_balance
+send 3000 naira igve Ngozi,send_money
+Buy 10k data on MTN for me jaare,buy_data
+Goood morning na,greeting
+abeg buy 9mobile data bundle,buy_data
+abeg abeg call Kemi for me o,call_contact
+abeg check my balance,check_balance
+Pause everything,stop_action
+abeg abeg sotp please,stop_action
+"Biko I no understand, help me na",help_request
+Abeg make transfer of 20k go my broda jre,send_money
+Biko buy airtime 1500 naira on Glo na,buy_airtime
+Please abeg buy credit give me,buy_airtime
+buy 20k data on 9mobile for me,buy_data
+Oga call Chidi,call_contact
+Biko buy N000 data on 9obile for me jare,buy_data
+biko connect me to my guy jaer,call_contact
+"please I no understan, help me o",help_request
+open youtube,open_app
+Abeg play Wizkid,play_music
+gimme Burna Boy o,play_music
+Cancel thhat acttion jare,stop_action
+abeg confirm my balance make I see o,check_balance
+Pleasse remind me make I pay sop ret by 6am,set_reminder
+Top up my Airtel line with 200 naira,buy_airtime
+Abeg buy credit give me,buy_airtime
+oga will rain fall today na,check_weather
+bbiko remind me make I pay shop rent by 6am,set_reminder
+Wetin dey happen please,greeting
+Abeg dial Chinedu's number jare,call_contact
+Start playing fuji music,play_music
+I wan send money to Musa jare,send_money
+oga I wan set alarm to remember school fees,set_reminder
+I wan buy data bundle,buy_data
+Hope you dey fine na,greeting
+open calculator abeg,open_app
+please how much I get for my account na,check_balance
+Bikko abeg send 500 naira give Amaka sharp sharp,send_money
+oga abeg sned 10k give my oga sharp sharp please,send_money
+transfer 3000 naira to Chinedu,send_money
+Biko abeg I need help,help_request
+abeg open the browser please,open_app
+start phnoe book o,open_app
+Biko is it going to arin today please,check_weather
+how much money I get now please,check_balance
+biko set reminder for church offering by weekend na,set_reminder
+Abeg wetin be the weather like o,check_weather
+Oga I wan hear gospel song pelase,play_music
+hello there na,greeting
+dial Aunty Bisi's number o,call_contact
+oga wetin I go do jare,help_request
+"please I no understand, help me please",help_request
+"oga I no understand, help me",help_request
+Is it going to rani today,check_weather
+Top up my Airtel line with 2k,buy_airtime
+Abeg buy airtime 500 naira on 9mobile,buy_airtime
+Abeg buy 3000 naira data on 9mobile for me,buy_data
+oga I need assistance,help_request
+please play ufji muic,play_music
+how much omney I get now na,check_balance
+biko abeg buy Glo data bundle,buy_data
+please how the weather be today na,check_weather
+Buy daat for me please,buy_data
+I need assistance na,help_request
+aabeg abeg buy 9obile data bundle,buy_data
+Oga start playing gospel soong na,play_music
+good morning please,greeting
+abeg abeg remind me about school fees,set_reminder
+please what is the weathr forecast jare,check_weather
+oga make transfer of N500 go paap,send_money
+biko set reminder for light bill tomrrow morning,set_reminder
+start playing afrobeat abeg,play_music
+abeg hello there o,greeting
+Please guide me,help_request
+no do am again,stop_action
+Bko ring my guy abeg,call_contact
+abeg call Blessing na,call_contact
+please I wan buy rrecharge card of 1000 naira,buy_airtime
+oga start playstore abeg,open_app
+biko what is the weather forecast,check_weather
+I wan hear fuji music,play_music
+Biko dial Uncle Femi's number abeg,call_contact
+Balance cheeck abeg,check_balance
+oga gimme afrobeat jare,play_music
+Phone Chinedu now,call_contact
+please make transfer of N2000 go papa na,send_money
+abeg start playing Burna Boy abeg,play_music
+biko stop the music abeg,stop_action
+please show me my account balance abeg,check_balance
+Oga what is the weather orecast,check_weather
+e go rain today?,check_weather
+Abeg halt jrae,stop_action
+Abeg gimme Wizkid jare,play_music
+Please I wan call Grce o,call_contact
+please recharge my line with 2k jare,buy_airtime
+load 10k credit for my phone abeg,buy_airtime
+please don't make me forget church offering on Monday jare,set_reminder
+brig up facebook o,open_app
+Help me abeg jjare,help_request
+please gimme afrobeat,play_music
+Stop am na,stop_action
+oga open playstore na,open_app
+abeg send 10k give Ibrahim o,send_money
+confirm my balance ake I see,check_balance
+oga buy 20k airtime for me,buy_airtime
+biko I wan set aarm to remember school fees,set_reminder
+biko weetin be the weather like na,check_weather
+please remind me make I pay DSTV subscription later today o,set_reminder
+how does this work please,help_request
+Wetin dey happen,greeting
+Abeg send 1000 naira give mama please,send_money
+Oga buy airtime N2000 on 9mobile o,buy_airtime
+Remind me make I pay generator fuel by 5 o'clock,set_reminder
+please I wan use camera,open_app
+oga make transfer of 5000 naira go Tunde please,send_money
+Is it going to rain today na,check_weather
+oga how much I get for my account,check_balance
+abeg put on fuji music na,play_music
+Abeg abeg play Wizkid for me jare,play_music
+How you dey please,greeting
+please transfer N2000 to Unce Femi's account,send_money
+Abeg abeg call Tunde for me abeg,call_contact
+biko lanch gmail abeg,open_app
+please connect me to papa pelase,call_contact
+loda 10k credit for my phone abeg,buy_airtime
+Please transfer 10k to Musa's account please,send_money
+biko top up my data plan,buy_data
+Oga I wan know how much dey my account o,check_balance
+Recharge my data with 2k,buy_data
+Please I wan kknow how much dey my account,check_balance
+please transsfer N2000 to Uncle Femmi's account na,send_money
+Wetin I go do aebg,help_request
+oga how far o,greeting
+Buy data for me o,buy_data
+Biko acncel that action,stop_action
+connect me to Aunty Bisi,call_contact
+Please please transfer 2k to Blessing's account,send_money
+abeg abeg check my account balance aebg,check_balance
+biko put on my playlist,play_music
+abeg buy N500 airtime for me,buy_airtime
+biko wetin dey happen please,greeting
+I wan ssend omney to Fatima na,send_money
+abeg etin dey hapepn,greeting
+Abeg gmme afrobeat,play_music
+pplease I wan know how much dey my account jare,check_balance
+oga aabeg open camera for me aebg,open_app
+Start youtube abeg,open_app
+oga play some music na,play_music
+Biko aeg remind me aboout shop rent abeg,set_reminder
+Biko aebg tell me the weather abeg,check_weather
+good morning o,greeting
+balance check abeg abeg,check_balance
+biko how umch money I get now please,check_balance
+Is it going to rain today o,check_weather
+abeg abeg buy credit give me jare,buy_airtime
+biko I wan buy reharge card of 20k jare,buy_airtime
+Biko is it going to rain today o,check_weather
+stop the music,stop_action
+please abeg tlel me the weather,check_weather
+Oga how much money I get now beg,check_balance
+What is my urrent balance please,check_balance
+abeg cancel this one o,stop_action
+Biko e go rain today? na,check_weather
+I wan set alarm to remember generator fuel please,set_reminder
+Abeg check weather for me please,check_weather
+I ened assistance,help_request
+Hello there,greeting
+How much I get for my account,check_balance
+Oga launcch camera jare,open_app
+I wan send money to Aunty Bsi o,send_money
+biok abeg send N500 give Amaka sharp sharp o,send_money
+Hope you dey fine,greeting
+buy data for me na,buy_data
+I wan hear my playlist abeg,play_music
+oga bring up playstore please,open_app
+Abeg halt,stop_action
+Oga oopen whatsapp abeg,open_app
+Biko open nstagram o,open_app
+Wetin dey happen pease,greeting
+set reminder for elecctricity bill this evening,set_reminder
+Put on some music o,play_music
+halt,stop_action
+oad internet data for my phone,buy_data
+"Please I dey confuse, assist me lpease",help_request
+abeg abeg call Musa for me o,call_contact
+abeg play Burna Boy,play_music
+I wan set alarm to remember electricity bill na,set_reminder
+Please wetin be my balance na,check_balance
+oga put on Wizkid na,play_music
+Oga how does this work,help_request
+Send 20k give Musa,send_money
+Abeg pause everything jare,stop_action
+Mmake transfer of N500 go my guy abeg,send_money
+I wan use youtube please,open_app
+abeg abeg buy Airtel data bundle o,buy_data
+how far abeg,greeting
+e go rain today? o,check_weather
+Oga wetin dey happen abeg,greeting
+"abeg I no understand, help me jare",help_request
+check my balance abeg,check_balance
+biko I wan hear my playlist o,play_music
+Send money give Blessing now now,send_money
+oga abeg call Uncle eFmi for me please,call_contact
+buy airtime N500 on MTN na,buy_airtime
+Buy data for me,buy_data
+please I wan call Aunty Bisi,call_contact
+oga cancle this one jare,stop_action
+Ibko I need assistance,help_request
+Oga send 500 naira gie Fatima abeg,send_money
+top up my Glo line with 2k abeg,buy_airtime
+oga hope you dey fine na,greeting
+I wan know how much dey my account na,check_balance
+pelase put on fuji music o,play_music
+Oga abeg pen camera for me jare,open_app
+"oga I no understand, help me na",help_request
+Etin be the weather like,check_weather
+top up my data plan na,buy_data
+don't make me forget rent on Monday na,set_reminder
+oga pause everything please,stop_action
+Connect me to my broda abeg,call_contact
+Oga buy 10k data on 9mobile for me,buy_data
+Oga I wan buy recharge cad of 10k,buy_airtime
+how does this work,help_request
+Abeg help me abge na,help_request
+Top up my data plan,buy_data
+Biko I wan call Blessing na,call_contact
+abeg sshow me my account balance,check_balance
+Cancel that action jare,stop_action
+biko load internet daata for my phone,buy_data
+Oga wetin I go do abeg,help_request
+Show me the browser o,open_app
+how does this wwork na,help_request
+looad internet data for my phone jare,buy_data
+please set reminder for DSTV subscription ttomorrow morning,set_reminder
+I wan use facebook,open_app
+abeg what is the weather forecast,check_weather
+What is the weather forecast abeg,check_weather
+Oga show me phone book,open_app
+Dial my guy's number,call_contact
+please load internet data for my phone,buy_data
+Bring up the brwser abeg,open_app
+biko abeg remind me about DSTV subscription please,set_reminder
+please guide me jare,help_request
+pleease please guide me,help_request
+abeg stop am,stop_action
+please abeg play Wizkid for me abeg,play_music
+Abeg connect me to Chidi please,call_contact
+oga make transfer of 500 naira go Emeka o,send_money
+"oga I no understand, help me o",help_request
+Oga I wan set allarm to remember school fees na,set_reminder
+Call Aunty Bisi abeg,call_contact
+abeg connect me to Chidi,call_contact
+phone Ibrahim now na,call_contact
+connect me to papa please,call_contact
+abeg hope you dey fine,greeting
+Abeg strt playing highlife abbeg,play_music
+Remind me make I pay school feees by 6am o,set_reminder
+Please buy N2000 data on Airtel for me o,buy_data
+Oga ood morning o,greeting
+Biko abeg call mama for me jare,call_contact
+oga load 200 naira credit for my phone na,buy_airtime
+please please remind me to pay generator fuel please,set_reminder
+help me abeg,help_request
+play Davido,play_music
+oga abeg stop jare,stop_action
+Wetin be my balance,check_balance
+Abeg caall Blessing for me,call_contact
+set reminder for shop rent before 12 abbeg,set_reminder
+abeg I wan buy data bundle na,buy_data
+How the weather be today,check_weather
+Oga cancle that action please,stop_action
+Pelase I nneed assistance please,help_request
+abeg start facebook,open_app
+biko how much money I get now jare,check_balance
+biko how you dey,greeting
+biko please transfer 1500 naira to Musa's account na,send_money
+I wan hear Wikid,play_music
+Cancel that action,stop_action
+oga abg ccall my broda for me na,call_contact
+Biko pause everything,stop_action
+ogod evening my friend,greeting
+oga send money give Chidi now now na,send_money
+Oga abeg send 10k give Grace sharp sharp,send_money
+recharge my line with 500 naira,buy_airtime
+Biko load 1000 naira credit for my phone,buy_airtime
+Biko play some music na,play_music
+oga check weather for me o,check_weather
+Show me settins please,open_app
+Send 3000 naira give Tuned o,send_money
+Oga top up my data plan na,buy_data
+Biko load internet data for my phoone na,buy_data
+Abeg rechaarge my line with 1500 naira beg,buy_airtime
+Please load 2k credit for my phone na,buy_airtime
+abeg remind me about generator fuel na,set_reminder
+biko how much money I get now please,check_balance
+oga load internet data for my phone na,buy_data
+how much I get for my account please,check_balance
+Biko abeg call paapa for me jarre,call_contact
+biko dial Kemi's number please,call_contact
+stop the music abeg,stop_action
+what is the ewather forecast na,check_weather
+Abeg start playing Dvaido,play_music
+whaat is the weather frecast,check_weather
+Balance check abeg plaese,check_balance
+please what is the weather forecast,check_weather
+oga wetin I go do,help_request
+Abeg I wan use calculator jare,open_app
+please how does this work,help_request
+Opne instagram,open_app
+Please wetn dey happen,greeting
+biko stop am jae,stop_action
+biko abeg open the browser for me,open_app
+please cancel that action abeg,stop_action
+Send money give Grace now now,send_money
+Please confirm my balance make I see na,check_balance
+please I wan use instagram,open_app
+biko abeg stop o,stop_action
+Biko set a reminder for me on Monday,set_reminder
+Good mroning,greeting
+Please recharge my line with N2000,buy_airtime
+oga send money give Emeka now now o,send_money
+"Oga I dey confuse, assist me",help_request
+recharge my data with 20k,buy_data
+how you dey,greeting
+I wan know how much dey my account please,check_balance
+stop am o,stop_action
+abeg good afternoon pleaase,greeting
+Oga how you dey jare,greeting
+biko good morning,greeting
+Please remind me to pay generator fuel na,set_reminder
+Abeg weitn be my balnce o,check_balance
+stop am,stop_action
+Wetin be the weather like,check_weather
+e go ain today? na,check_weather
+oga I wan use instagram abeg,open_app
+Pleaase recharge my data with N500 o,buy_data
+oga wetin be my balance,check_balance
+good evening my friend na,greeting
+How far aebg,greeting
+How much I get for my account na,check_balance
+Please abeg stop o,stop_action
+Put on fuji music,play_music
+biko good afternoon na,greeting
+abeg phoone Tune now please,call_contact
+abeg remind me about churrch offering abeg,set_reminder
+Biko load internet data for my phone na,buy_data
+Oga open phone book,open_app
+Show me my account balance abeg,check_balance
+abeg I wan use camera,open_app
+check weather for me,check_weather
+abeg I wan set alarm to remember water bill jjare,set_reminder
+abeg buy 500 naira airtime for me please,buy_airtime
+Oga I wan buy data bundle jare,buy_data
+oga buy 3000 nara data on Glo for me o,buy_data
+Abeg hello there,greeting
+Abeg open phone book,open_app
+Abeg transfer 50 naira to Uncle Femi,send_money
+Biko gimme Burna Boy,play_music
+please check weater for me abeg,check_weather
+Start playing Davido o,play_music
+Oga recharge my line with 3000 anira jare,buy_airtime
+Oga put on gospel song,play_music
+please start playing Burna Boy,play_music
+Biok olad N500 crredit for my phone,buy_airtime
+oga open setttings,open_app
+launch whatsapp o,open_app
+Start playing fuji musci lpease,play_music
+Esnd N500 give my brroda jare,send_money
+please is it going to rain oday,check_weather
+abeg wein be the weather like,check_weather
+Biko abeg open facebook for me,open_app
+Abeg transfer 1000 naira to Eemka,send_money
+abeg I wan buy rechharge crd of 20k jarre,buy_airtime
+biko send money give Kemi now now o,send_money
+abeg I want to send 3000 naira to Muusa,send_money
+Oga show me my account balance,check_balance
+buy airtime 500 naira on 9mobile jare,buy_airtime
+I wwant to send N500 to Blessing jare,send_money
+How does tthis work,help_request
+launch instagram,open_app
+please I wan buy data bundle jare,buy_data
+Biko I wan call papa o,call_contact
+Abeg top up my data plan,buy_data
+Oga wetin dey haappen please,greeting
+Good evening my friend abeg,greeting
+biko hope you dey fine abeg,greeting
+oga I wan hear gospel song na,play_music
+Please buy 20k data on MTN for me na,buy_data
+Abeg call my sista jare,call_contact
+baeg buy MTN data bundle please,buy_data
+Phonne Kemi now,call_contact
+please I wan set alarm to remember water bill o,set_reminder
+Abeg how far abeg,greeting
+I wan send money to Ngozi,send_money
+Please remind me to pay DSTV subscription,set_reminder
+Recharge my data with 1000 naira jare,buy_data
+please start playing gospel song,play_music
+wetin be the weather ike,check_weather
+hoope you dey fine,greeting
+Pone Chidi now o,call_contact
+top up my Airtel line with N2000,buy_airtime
+Please phone my broda now na,call_contact
+please abeg stop please,stop_action
+Please how much money I get now o,check_balance
+"I dey confuse, assiist me please",help_request
+Wetin I go do please,help_request
+please ring gNozi o,call_contact
+Bring up camera abeg,open_app
+"I no understand, help me na",help_request
+Abeg I wan call Chinedu please,call_contact
+Abeg what is the weather forecast o,check_weather
+Please don't make me forget church offering by 5 o'clock please,set_reminder
+Abeg how you dey,greeting
+Abeg tell me the weather jare,check_weather
+load 20k credit for my phone na,buy_airtime
+biko abeg remind me aboout light bill jare,set_reminder
+please please remind me to pay water bill jare,set_reminder
+Apuse everything abeg,stop_action
+I wan send money to maa na,send_money
+I wan know how much dey my account jare,check_balance
+Remind me make I pay DSTV subscription on Monday na,set_reminder
+Please abeg buy credit give me o,buy_airtime
+please buy 500 naira data on Airtel for me please,buy_data
+aabeg launch calculator,open_app
+hello htere,greeting
+please I wan use gllery please,open_app
+Please buy 3000 niara data on MTN for me please,buy_data
+Wetin be my balance ajre,check_balance
+Wetin I go do o,help_request
+Hope you dey fine jare,greeting
+I wan buy echarge caard of 500 naira,buy_airtime
+please no do am again please,stop_action
+Abge buy credit give me na,buy_airtime
+abeg abbeg send 20k give Chinedu sharp sharp please,send_money
+Please remind me make I pay light bill this evening,set_reminder
+what is the weather forecast na,check_weather
+bkio wetin be the weather like na,check_weather
+biko no do am again please,stop_action
+"abeg I dey confuse, assist me please",help_request
+help me abbeg na,help_request
+Iko hello there jare,greeting
+show me my account balance,check_balance
+Wetin be the weather like o,check_weather
+cheeck my balance jaer,check_balance
+Oga confirm my balance make I see,check_balance
+phone Blessing now o,call_contact
+pause everything please,stop_action
+Wetin be the weather like please,check_weather
+biko top up my data plan jare,buy_data
+Biko wetin be the weather like,check_weather
+Abeg good monring,greeting
+biko I want to send 3000 naira to my guy o,send_money
+Oga I wan heear afrobeat o,play_music
+please buy data for me please,buy_data
+please buy 5000 naira irtime for me o,buy_airtime
+stop the music please,stop_action
+I want to send 20k to Aunty Bisi jae,send_money
+Abeg helllo there o,greeting
+oga ring Fatima,call_contact
+How much money I get now abeg,check_balance
+Biko connect me to Tunde abeg,call_contact
+oga transfer 2k to Musa jare,send_money
+oga abeg stop abeg,stop_action
+oga I wan her Davido o,play_music
+oga cancel that action please,stop_action
+No do am aagain,stop_action
+start the browser jare,open_app
+Open settings,open_app
+biko abeg buy credit give me,buy_airtime
+Abeg buy N500 ata on Airtel for me,buy_data
+Abeg I need help,help_request
+please buy airtime 2k on Airtel,buy_airtime
+I wan send money to Fatima na,send_money
+"biko I no understand, hep me abeg",help_request
+Please recharge my line with 5000 naira na,buy_airtime
+oga abeg play gospel song for me abeeg,play_music
+oga wetin be my balance o,check_balance
+Please confirm my balance make I see,check_balance
+load 3000 naira credit for my phone abeg,buy_airtime
+I wan call mama na,call_contact
+biko I wan set alarm to remember water bill,set_reminder
+oga please remind me to pay light bill abeg,set_reminder
+Biko ring my oga,call_contact
+open settings please,open_app
+Oga please transfer 2k to my sista's account,send_money
+Oga wetin be my balance jare,check_balance
+Please how you dey please,greeting
+oga I wan call Tunde please,call_contact
+abeg bring up instaram,open_app
+top up my Glo line with 1500 naira o,buy_airtime
+Oga gimme Wizkid,play_music
+oga wetin dey happen,greeting
+biko I wan use whatsapp,open_app
+oga wetin dey happen jre,greeting
+Biko dial Grace's number jare,call_contact
+how does this work o,help_request
+make transfr of 3000 naira go Kemi,send_money
+please help me abeg,help_request
+play some musiic na please,play_music
+please remind me make I pay generator fuel before 12 abeg,set_reminder
+biko hope you dey ffine please,greeting
+buy airtie 3000 naira on 9mobile please,buy_airtime
+Buy airtime 1500 naira on 9mobile na,buy_airtime
+coonnect me to Musa abeg,call_contact
+Bkio buy data for me,buy_data
+Oga I wan use youtube please,open_app
+biko set reminder for generator fuel by 6am,set_reminder
+wetin be my balance please,check_balance
+Oga please guide me,help_request
+please stop the music,stop_action
+please sttop the music na,stop_action
+Biko abeg tell me the ewather o,check_weather
+Phonne Grace now,call_contact
+please bring up camra na,open_app
+Dial papa's number jare,call_contact
+oga I wan buy daata bundle jare,buy_data
+Biko wetin be my balance o,check_balance
+Load 50 naira credit for my phone,buy_airtime
+how far jare,greeting
+biko I need assistance abeg,help_request
+Canccel that action na,stop_action
+Check my balance,check_balance
+Pelase pause everything na,stop_action
+How the weather be tody abeg,check_weather
+open whatsapp abeg,open_app
+abeg launch instagram abeg,open_app
+biko stop am o,stop_action
+Remind me make I pay water bill later todya,set_reminder
+Oga good afternoon abeg,greeting
+Ring Chidi,call_contact
+biko haalt,stop_action
+abeg buy 50 naira data on MTN for me,buy_data
+Please I wan know how much dey my account jare,check_balance
+oga buy airtime 3000 naira on Airtel na,buy_airtime
+oga abeg buy MTN data bundle please,buy_data
+abeg don't ake me forget water bill by 6am please,set_reminder
+Abeg how the weather be today,check_weather
+Biko buy data for me please,buy_data
+oga make transfer of 20k go Musa,send_money
+loda internet data for my phone,buy_data
+how far o,greeting
+biko gimme afrobeat o,play_music
+oga start playing fuji music,play_music
+how far,greeting
+Abeg wetin be my balance,check_balance
+Abeg halt o,stop_action
+Abbeg confirm my balannce maake I see,check_balance
+what is the weather forecast,check_weather
+Ring Fatima,call_contact
+what is my current balance jare,check_balance
+cancel that action o,stop_action
+abeg ring my guy o,call_contact
+biko cancel this one abeg,stop_action
+biko buy 5000 naira data on MTN for me,buy_data
+Oga I need assistanec abeg,help_request
+abeg wetin be the ewather like,check_weather
+Abeg I want to send 2k to Kemi please,send_money
+Please I need assistance,help_request
+Play some music na,play_music
+oga abeg open facebook for me abeg,open_app
+please abeg sstop abeg,stop_action
+bbiko halt o,stop_action
+Oga how does this work jare,help_request
+Please top up my MTN line with 20k,buy_airtime
+oga abeg I need help na,help_request
+I wan set aarm to remember DTSV subcription jare,set_reminder
+Abeg tell me the weather o,check_weather
+don't make me forget electricity bill by 5 o'cock,set_reminder
+oga I wan buy recharge card of N2000 jare,buy_airtime
+please show me my account balance please,check_balance
+gimme Wizkid,play_music
+Cancel this one jare,stop_action
+Transfer 3000 naira to my guy,send_money
+biko e go rain today? o,check_weather
+Please how much money I get now na,check_balance
+biko abeg send 5000 naira give my guy sharp sharp,send_money
+please I wan call Fatima please,call_contact
+oga balance chek abeg na,check_balance
+abeg gimme some music please,play_music
+Abeg pause everything,stop_action
+No do am again jare,stop_action
+Load internet data for my phone,buy_data
+Oga dial Aunty Bisi's nmber,call_contact
+Wht is the weather forecast,check_weather
+Put on afrobeat o,play_music
+Please balance check abeg na,check_balance
+top up my MTN line with 10k abeg,buy_airtime
+Oga start playiing gspel song,play_music
+Set a reminder for me by weekend o,set_reminder
+Please stop the music na,stop_action
+make transfer of N500 go Aunty Bisi,send_money
+Abeg I need help na,help_request
+Good affternoon o,greeting
+Transfer 10k to Fatima abeg,send_money
+Abeg how much money I get now o,check_balance
+biko gimme highlife na,play_music
+biko abeg call Uncle Femi for me o,call_contact
+buy 1500 naira data on Aitel for me pleease,buy_data
+Please remind me make I pay water bill by weekend please,set_reminder
+I wan cll Aunty Bsi,call_contact
+abeg call Tunde for me,call_contact
+send money give Tunde now now,send_money
+Please I wan hear Davido please,play_music
+Oga stop am,stop_action
+Wetin dey happen jare,greeting
+call mama o,call_contact
+biko abeg tell me the weather,check_weather
+"please I no understand, help me",help_request
+biko open youtube abeg,open_app
+Set reminder for church offering before 12,set_reminder
+Please remind me to pay SDTV subscription,set_reminder
+Please good morning o,greeting
+Oga abeg opne instagram for me na,open_app
+plese remind me to pay shop ernt,set_reminder
+Gimme highlife,play_music
+good afternoon na,greeting
+pelase set remindr for water bill by weekend,set_reminder
+Biko how you dey o,greeting
+Biko abeg play gospel song for me,play_music
+Hope you dey finne abeg,greeting
+Oga start camea,open_app
+"I dey confuse, assist me abeg",help_request
+please hhelp me abeg,help_request
+I need assistance please,help_request
+Gimme gospel song abeg,play_music
+Bko show me calculator,open_app
+please buy airtime 500 naira on Glo,buy_airtime
+abeg please remind me to pay light bill,set_reminder
+ring Musa na,call_contact
+abeg buy crdeit givve me,buy_airtime
+biko I wan send money to my oga please,send_money
+Biko is it ggoing to rain today o,check_weather
+Abeg open calculator for me o,open_app
+oga top up my data plan,buy_data
+Bring up the browser na,open_app
+Please I wnat to send 3000 naira to Grace abeg,send_money
+Aebg buy Glo data bundle abeg,buy_data
+how you dey o,greeting
+Oga good evening my friend abbeg,greeting
+abeg set a reminder for me by 5 o'clock,set_reminder
+Biko open youtube jare,open_app
+biko help me abeg,help_request
+please how much money I get now abeg,check_balance
+oga sstop the music please,stop_action
+Please will rain fall today na,check_weather
+good evening my friend,greeting
+Please guide me abeg,help_request
+abeg I need assistance na,help_request
+"aeg I no understand, help me o",help_request
+Biko cancel that action abeg,stop_action
+I wan set alarm to remember water bill,set_reminder
+is it going to rain today,check_weather
+set reminder for light bill tomorrow morning abeg,set_reminder
+"I no understand, heelp me o",help_request
+Put on Davido,play_music
+Please transfer N2000 to Grace's account please,send_money
+What is the weather forecast o,check_weather
+no do am again na,stop_action
+"abeg I no understand, help me",help_request
+Stop the music jare,stop_action
+will rain fall toay,check_weather
+abeg stop,stop_action
+oga good morning,greeting
+Please is it gooing to rain today,check_weather
+"I no understand, help me",help_request
+Aabeg start playstore jare,open_app
+Show me settings plesae,open_app
+please remind me to pay DSTV subsccription,set_reminder
+please good morning,greeting
+Wetin be my balance na,check_balance
+Biko buy data for me o,buy_data
+oga buy 3000 naira adta on 9mobile for me na,buy_data
+abeg help me aeg na,help_request
+Oad 1000 naira credit for my phone,buy_airtime
+Balance check abeg,check_balance
+Please put on afrobeat please,play_music
+Abeg call my oga for me,call_contact
+Abeg please guide me,help_request
+please make transefr of N500 go Emeka na,send_money
+remind me mae I pay DSTV subscription later today,set_reminder
+I wan sned money to Musa please,send_money
+I wan buy data bundel,buy_data
+Abeg send 1000 naira give my broda shrap sharp,send_money
+Abeg what is the weather ofrecast abeg,check_weather
+abeg recharge my data witth N2000 na,buy_data
+Cancel this one,stop_action
+Please abeg buy Airtel daat bundle please,buy_data
+oga ring Aunty Bisi o,call_contact
+Abeg buy credit give me abeg,buy_airtime
+oga please guide me abeg,help_request
+Oga gimme Wizkid please,play_music
+Biko stop am na,stop_action
+connect me to Blessing,call_contact
+Please bring up the browser jare,open_app
+Abeg I wan sed money to Aunty Bisi,send_money
+biko abeg I need help jare,help_request
+Biko set reminder for church offering before 12,set_reminder
+please dial Blessing's number,call_contact
+Top up my data pan please,buy_data
+Biko how much I get for my account jare,check_balance
+hello there abeg,greeting
+Biko load 10k credit for my phone,buy_airtime
+call Ngozi abeg,call_contact
+"please I no understand, help me jare",help_request
+Oga hope you dey fine,greeting
+Abg stop the music please,stop_action
+biko wetin be the weatther like,check_weather
+Oga abeg buy credit ggive me please,buy_airtime
+abeg top up my MTN line with 5000 nnaira jre,buy_airtime
+Oga send 3000 naira give my broda na,send_money
+open settings plaese,open_app
+biko abeg stop jare,stop_action
+I wan buy recharge card of 3000 naira abeg,buy_airtime
+hoep you dey fine,greeting
+Biko buy 10k airtime for me o,buy_airtime
+ogod afternoon please,greeting
+please please guide me,help_request
+Abeg remind me make I pay church offering next week o,set_reminder
+oga abeg stop na,stop_action
+please I wan hear fuji music,play_music
+Oga abeg call Kemi for me,call_contact
+"Pleaes I no unerstand, help me abeg",help_request
+cancel that action are,stop_action
+Cancel that action na,stop_action
+Abeg set reminder for electriciy bll on Monday,set_reminder
+oga transfer 5000 naira to Uncle Femi o,send_money
+biko how you dey abeg,greeting
+Please buy 1000 naira aitime for me,buy_airtime
+Oga what is my current balance,check_balance
+Abeg abeg buy MTN ata bundle o,buy_data
+transfer 20k to Aunty Bisi,send_money
+Check my balance o,check_balance
+biko good morning o,greeting
+set a reminder for me by 6am,set_reminder
+balance chck abeg abeg,check_balance
+biko start yuotube jare,open_app
+abeg what is my current balance,check_balance
+oga I wan set alarm to remembeer shop rent please,set_reminder
+please remind me make I pay DSTV subscription this evening,set_reminder
+open camera,open_app
+please e go rain today? o,check_weather
+Oga abeg stop o,stop_action
+Abeg sned N2000 ggive Musa o,send_money
+please e go rain today? please,check_weather
+biko bring up camera please,open_app
+Please load internet data for my phone abeg,buy_data
+send 10k give my oga o,send_money
+Please launh whatsapp o,open_app
+I wan know how much dey my account abeg,check_balance
+abeg don't make me forget water bill by 5 o''clock o,set_reminder
+top up my Glo line with 20k na,buy_airtime
+Oga abeg tell me the ewather na,check_weather
+put on highlife abeg,play_music
+Oga e go rain todya? o,check_weather
+Biko aunch gallery na,open_app
+oga what is the weather forecast,check_weather
+I neeed assisance abeg,help_request
+oga I wan buy recharge card of 3000 naira,buy_airtime
+Lease halt,stop_action
+how you dey jjare,greeting
+abeg don't make me forget water billl next weeek na,set_reminder
+Check weather for me please,check_weather
+biko hceck my baalance,check_balance
+Make transfer of 50 naira go Grace na,send_money
+Oga help me abeg,help_request
+Will rain fall today na,check_weather
+Please top up my data plan na,buy_data
+Show me calculator na,open_app
+Oga I wan hear highlife,play_music
+godo afternoon,greeting
+Abeg buy Airtel data bndle jare,buy_data
+Please stop am jare,stop_action
+remind me make I pay light bill by weekend please,set_reminder
+I wan call my sista,call_contact
+abeg load 5000 naira credti for my phoe jare,buy_airtime
+transefr 2k to Blessing,send_money
+please connect me to Tunde jare,call_contact
+I wan send money to Chnedu na,send_money
+Abeg connect me to Chinedu abeg,call_contact
+Please I wan set larm to remember water bill o,set_reminder
+abeg send 500 naira give Chidi sharp sharp,send_money
+Oga abeg check my account balance,check_balance
+Open camera na,open_app
+Balance check baeg o,check_balance
+make transfer of 10k go Blessing abeg,send_money
+Biko top up my dtaa plan,buy_data
+Please how the weather be today,check_weather
+Oppen instagram,open_app
+Abeg buy ddata for me jare,buy_data
+please abeg check my account balance abeg,check_balance
+Oga bring up the rowser na,open_app
+I wan set alarm to remember wter bill jrae,set_reminder
+Abg buy Glo data bundle,buy_data
+abeg cancel this one abeg,stop_action
+buy N500 daa on 9mobile for me pelase,buy_data
+please how the weather be tdoay,check_weather
+Aabeg connect me to Musa,call_contact
+Please phone my guy now,call_contact
+Remind me make I pay church offering next week please,set_reminder
+abeg hello three please,greeting
+Aebg top up my data plan,buy_data
+abeg I wan hear Burna Boy na,play_music
+please I wan hear gospel song na,play_music
+abeg I wan use the brower abeg,open_app
+abeg help me abeg aebg,help_request
+please remind me to pay school fees na,set_reminder
+I need assistance,help_request
+Biko how much money I get now are,check_balance

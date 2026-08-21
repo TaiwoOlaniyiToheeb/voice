@@ -1,0 +1,31 @@
+# Core dependencies for the Voice/Text Command Classifier project
+# Install with: pip install -r requirements.txt
+
+pandas>=2.0.0          # dataset loading and manipulation
+scikit-learn>=1.3.0    # TF-IDF vectorizer, ML models, evaluation metrics
+joblib>=1.3.0          # saving/loading the trained model pipeline
+matplotlib>=3.7.0      # confusion matrix plotting
+seaborn>=0.12.0         # (optional) nicer plot styling, used in the notebook
+
+# ---------------------------------------------------------------
+# VOICE INPUT (src/voice_predict.py) - real speech-to-text support
+# ---------------------------------------------------------------
+SpeechRecognition>=3.10.0   # audio capture/loading + Google + Sphinx engines
+pocketsphinx>=5.0.0          # offline speech recognition engine (no internet needed)
+pyaudio>=0.2.13               # microphone access (only needed for --mic mode)
+
+# Linux users installing pyaudio/pocketsphinx from source may also need:
+#   sudo apt-get install portaudio19-dev espeak-ng
+# (espeak-ng is only needed if you want to generate your own test audio,
+#  e.g. `espeak-ng -w test.wav "abeg check my balance"`)
+
+# ---------------------------------------------------------------
+# WEB APP (app.py) - hosted demo via Streamlit
+# ---------------------------------------------------------------
+streamlit>=1.32.0
+plotly>=5.18.0
+
+# ---------------------------------------------------------------
+# OPTIONAL extras:
+# ---------------------------------------------------------------
+# tensorflow>=2.15.0             # only if you want to try a Keras/LSTM model instead

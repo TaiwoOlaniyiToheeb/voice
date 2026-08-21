@@ -1,0 +1,20 @@
+{
+  "best_model": "svc",
+  "test_accuracy": 1.0,
+  "test_macro_f1": 1.0,
+  "hard_test_accuracy": 0.8888888888888888,
+  "cross_validation": {
+    "logistic_regression": {
+      "cv_mean_accuracy": 0.9843646549528902,
+      "cv_std": 0.009784504314600446
+    },
+    "svc": {
+      "cv_mean_accuracy": 0.9882777353365588,
+      "cv_std": 0.010436412231685711
+    },
+    "naive_bayes": {
+      "cv_mean_accuracy": 0.9817757405992701,
+      "cv_std": 0.0063885863327991866
+    }
+  }
+}

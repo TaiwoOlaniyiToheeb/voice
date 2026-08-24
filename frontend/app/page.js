@@ -238,7 +238,7 @@ export default function Home() {
 
           <div className="button-row">
             <button className="btn" onClick={handleAnalyzeClick} disabled={audioLoading}>
-              {audioLoading ? "Analyzing..." : "🎤 Analyze Audio"}
+              {audioLoading ? "Analyzing..." : "Analyze Audio"}
             </button>
           </div>
 

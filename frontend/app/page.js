@@ -155,7 +155,7 @@ export default function Home() {
           <span className="feature-badge">Support Vector Classifier</span>
           <span className="feature-badge">TF-IDF</span>
           <span className="feature-badge">12 Intents</span>
-          <span className="feature-badge">🎤 Voice + Text</span>
+          <span className="feature-badge">Voice + Text</span>
         </div>
       </div>
 
@@ -178,7 +178,7 @@ export default function Home() {
         <div className="card" style={{ borderTopLeftRadius: 0 }}>
           <h3>Type a Command</h3>
           <p style={{ color: "var(--color-muted)", marginTop: "-0.5rem" }}>
-            Try Pidgin or English — e.g. &quot;abeg check my balance&quot; or &quot;send money to
+            Try Pidgin or English e.g. &quot;abeg check my balance&quot; or &quot;send money to
             my brother&quot;.
           </p>
 
@@ -262,7 +262,7 @@ export default function Home() {
         <span className="tech-pill">Scikit-learn</span>
         <span className="tech-pill">SpeechRecognition</span>
         <span className="tech-pill">TF-IDF</span>
-        <span className="tech-pill">Logistic Regression</span>
+        <span className="tech-pill">Support Vector Classifier</span>
       </div>
     </div>
   );

@@ -152,9 +152,9 @@ export default function Home() {
           AI-powered intent recognition for English and Nigerian Pidgin voice/text commands.
         </p>
         <div className="badge-row">
-          <span className="feature-badge">📊 Logistic Regression</span>
-          <span className="feature-badge">🔤 TF-IDF</span>
-          <span className="feature-badge">🎯 12 Intents</span>
+          <span className="feature-badge">Support Vector Classifier</span>
+          <span className="feature-badge">TF-IDF</span>
+          <span className="feature-badge">12 Intents</span>
           <span className="feature-badge">🎤 Voice + Text</span>
         </div>
       </div>
@@ -164,19 +164,19 @@ export default function Home() {
           className={`tab-button ${activeTab === "text" ? "active" : ""}`}
           onClick={() => setActiveTab("text")}
         >
-          ⌨️ Text Command
+          Text Command
         </button>
         <button
           className={`tab-button ${activeTab === "audio" ? "active" : ""}`}
           onClick={() => setActiveTab("audio")}
         >
-          🎤 Voice Command
+          Voice Command
         </button>
       </div>
 
       {activeTab === "text" && (
         <div className="card" style={{ borderTopLeftRadius: 0 }}>
-          <h3>⌨️ Type a Command</h3>
+          <h3>Type a Command</h3>
           <p style={{ color: "var(--color-muted)", marginTop: "-0.5rem" }}>
             Try Pidgin or English — e.g. &quot;abeg check my balance&quot; or &quot;send money to
             my brother&quot;.
@@ -201,7 +201,7 @@ export default function Home() {
 
           <div className="button-row">
             <button className="btn" onClick={handleClassifyClick} disabled={textLoading}>
-              {textLoading ? "Classifying..." : "🚀 Classify Command"}
+              {textLoading ? "Classifying..." : "Classify Command"}
             </button>
             <button
               className="btn secondary"
@@ -211,7 +211,7 @@ export default function Home() {
                 setTextError(null);
               }}
             >
-              🔄 Clear
+              Clear
             </button>
           </div>
 
@@ -228,7 +228,7 @@ export default function Home() {
           </p>
 
           <div className="upload-area">
-            <div>📤 Drop your audio file here, or browse</div>
+            <div>Drop your audio file here, or browse</div>
             <input
               type="file"
               accept=".wav,.flac,.aiff,.aif"
@@ -243,7 +243,7 @@ export default function Home() {
           </div>
 
           <div className="message info" style={{ marginTop: "1rem" }}>
-            💡 Want live microphone input? Run{" "}
+            Want live microphone input? Run{" "}
             <code>python src/voice_predict.py --mic</code> from the main project locally —
             that path captures directly from your microphone.
           </div>
